@@ -169,7 +169,7 @@ export function Pricing() {
                   </div>
                   <div className="flex items-baseline justify-center gap-1">
                     <span className="text-2xl text-blue-200">R$</span>
-                    <span className="text-6xl font-bold text-white">287</span>
+                    <span className="text-6xl font-bold text-white">297</span>
                     <span className="text-blue-200 text-lg">/mês</span>
                   </div>
                   <p className="text-sm text-blue-200/80">

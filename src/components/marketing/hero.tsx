@@ -70,7 +70,7 @@ export function Hero() {
                 "IA que qualifica seus leads e atendimentos",
                 "Integração nativa com WhatsApp e Google Agenda",
                 "Automação completa do ciclo de vendas",
-                "Planos flexíveis a partir de R$ 287/mês",
+                "Planos flexíveis a partir de R$ 297/mês",
               ].map((feature, index) => (
                 <div key={index} className="flex items-center gap-3">
                   <CheckCircle className="w-5 h-5 text-blue-600 flex-shrink-0" />
